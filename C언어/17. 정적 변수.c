@@ -14,10 +14,10 @@ int test() {
 
 int main(void) {
 
-    printf("%d \n", test());
-    printf("%d \n", test());
-    printf("%d \n", test());
-    printf("%d \n", test());
-    printf("%d \n", test());
+    printf("%d \n", test());    // 1
+    printf("%d \n", test());    // 2
+    printf("%d \n", test());    // 3
+    printf("%d \n", test());    // 4
+    printf("%d \n", test());    // 5
 
 }

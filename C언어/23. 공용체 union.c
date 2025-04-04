@@ -15,11 +15,11 @@ int main(void) {
 
     a.x = 20;
 
-    printf("%d %d \n", a.x, a.y);
+    printf("%d %d \n", a.x, a.y);   // 20 20
 
     a.y = 10;
 
-    printf("%d %d \n", a.x, a.y);
+    printf("%d %d \n", a.x, a.y);   // 10 10
 
     return 0;
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int sum(int a, int b);
+int sum(int a, int b);  // 함수 프로토 타입
 
 int main(void) {
 
